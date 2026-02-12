@@ -13,6 +13,7 @@ want to see.
 ### You will need the following before joining the call
 
 * A computer capable of running your chosen java IDE alongside teams desktop sharing
+* A quiet working environment;  as the live pairing demands clear two-way audio and video communication.
 * A modern version of Java installed (at least java 17)
 * The ability to share your complete desktop during the call for the exercise
 * A working git command
@@ -20,7 +21,7 @@ want to see.
 * A good, reliable internet connection
 
 ### Exercise 
-The task you will be asked to complete in a pair TDD will be one of the code katas found on https://codingdojo.org/kata/
+The task you will be asked to complete in a pair will be one of the code kata found on https://codingdojo.org/kata/
 and as with all code katas, it will be completed using a TDD approach.
 
 ```mermaid
