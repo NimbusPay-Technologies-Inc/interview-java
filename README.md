@@ -1,7 +1,7 @@
 # Welcome to your interview with Nimbuspay Technologies.
 
 Your interview will comprise a short conversation about your experience followed by a live pair programming exercise 
-with two of our senior engineers. One of whom will be your Pair to complete a simple code kata; whilst the 
+with two of our senior engineers. One of whom will be your Pair to complete a simple code Kata; whilst the 
 other observes and asks questions.
 
 The exercise chosen will be designed to be simple and straight forward, it is **not** expected that you will fully 
@@ -12,8 +12,8 @@ want to see.
 
 ### You will need the following before joining the call
 
-* A computer capable of running your chosen java IDE alongside teams desktop sharing
-* A quiet working environment;  as the live pairing demands clear two-way audio and video communication.
+* A personal computer, one capable of running your chosen Java IDE alongside MSTeams desktop sharing.  Please avoid using employer-supplied machines that may have restrictions on bandwidth or what you may access
+* A quiet working environment; as the live pairing demands clear two-way audio and video communication.
 * A modern version of Java installed (at least java 17)
 * The ability to share your complete desktop during the call for the exercise
 * A working git command
@@ -21,8 +21,8 @@ want to see.
 * A good, reliable internet connection
 
 ### Exercise 
-The task you will be asked to complete in a pair will be one of the code kata found on https://codingdojo.org/kata/
-and as with all code katas, it will be completed using a TDD approach.
+The task you will be asked to complete in a pair will be one of the code Katas found on https://codingdojo.org/kata/
+and as with all code Kata, it will be completed using a TDD approach.
 
 ```mermaid
 graph TD;
