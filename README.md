@@ -12,8 +12,9 @@ want to see.
 
 ### You will need the following before joining the call
 
-* A computer capable of running your chosen java IDE alongside teams desktop sharing
-* A quiet working environment;  as the live pairing demands clear two-way audio and video communication.
+* A personal computer, one capable of running your chosen java IDE alongside teams desktop sharing
+  * Please avoid using employer supplied machines that may have restrictions on bandwidth or what you may access
+* A quiet working environment; as the live pairing demands clear two-way audio and video communication.
 * A modern version of Java installed (at least java 17)
 * The ability to share your complete desktop during the call for the exercise
 * A working git command
